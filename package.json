@@ -1,0 +1,17 @@
+{
+  "name": "alexa-openwhisk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "author": "",
+  "license": "Apache-2.0",
+  "repository": "",
+  "dependencies": {
+    "alexa-verifier": "^2.0.1",
+    "openwhisk": "^3.18.0",
+    "request": "^2.88.0",
+    "watson-developer-cloud": "^3.15.0"
+  },
+  "devDependencies": {}
+}
